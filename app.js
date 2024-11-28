@@ -1,4 +1,4 @@
-const apiBaseUrl = 'https://rapid-polished-aardvark.ngrok-free.app/'; // Replace with your API base URL
+const apiBaseUrl = 'https://rapid-polished-aardvark.ngrok-free.app'; // Replace with your API base URL
 
 // Create a new user
 document.getElementById('createUserForm').addEventListener('submit', function(e) {
